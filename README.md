@@ -26,7 +26,7 @@
    
 5) Share the repository link into the Google Form: https://forms.gle/jSzZMKiq2wxFwgiz7
 
-## Objective
+## Problem Statement
 
 Create a mobile based video game which asks the players to pop the greatest number of balloons within a time period of 2 minutes. The game must contain the following elements:
 
@@ -36,7 +36,7 @@ Create a mobile based video game which asks the players to pop the greatest numb
    
 3) Arbitrary number of balloons, which randomly appear from the bottom of the screen and flow towards the top of the screen and disappear. Player receives +2 for popping the balloon while it is visible, and a penalty of -1 for every balloon missed.
 
-## Requirements
+**Requirements**
 
 1)	Interface Design
    
@@ -68,7 +68,7 @@ Create a mobile based video game which asks the players to pop the greatest numb
 
     b)	Responsive Touch Controls: Ensure immediate and accurate registration of taps, providing instant feedback to the player.
 
-## Deliverables
+**Deliverables**
 
 1) Functional Prototype: A basic working game that demonstrates the core mechanics (timer, score calculation, balloon generation/movement, and tap-to-pop interaction).
    
@@ -76,8 +76,10 @@ Create a mobile based video game which asks the players to pop the greatest numb
    
 3) Source code with comments explaining the logic and structure for future reference or modifications.
 
-## Constraints:
+**Constraints**
 
 1) Development Platform: Use Flutter /React Native for cross platform game development in iOS/Android
  
 2) Ensure compatibility with major mobile OS platforms.
+
+**Push the source code along with a demo video of your solution into the forked github repo. Share the repo link in the google form: https://forms.gle/jSzZMKiq2wxFwgiz**
