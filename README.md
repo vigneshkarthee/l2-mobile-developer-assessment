@@ -1,6 +1,6 @@
 # Pop-The-Balloon Mobile Video Game
 
-## Instructions:
+## Instructions
 
 1) Fork the github repo into your personal Github account and take a clone into your local system.
 
